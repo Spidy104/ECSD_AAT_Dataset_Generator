@@ -815,7 +815,7 @@ If you use this dataset generator in your research, please cite:
 
 ```
 Solar Energy Dataset Generator
-https://github.com/Spidy104/
+https://github.com/Spidy104/ECSD_AAT_Dataset_Generator
 ```
 
 ## Contact
